@@ -27,3 +27,17 @@ padding: 40px;
 box-shadow: 10px 10px 40px rgb(0, 0, 0, 0.4);
 gap: 5px;
 }
+
+.formlogin h1{
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+font-size: 2.3em;
+}
+
+.formlogin p{
+    display: inline-block;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 25px;
+}
